@@ -147,3 +147,12 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Private source material is never part of this portfolio
+private-input/
+private-source/
+chat-exports/
+conversations*.json
+chat.html
+*.pem
+*.key
